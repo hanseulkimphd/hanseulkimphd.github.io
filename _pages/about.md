@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral fellow at Massachusetts General Hospital/Harvard Medical School
+subtitle: Assistant Professor at The University of Texas MD Anderson Cancer Center
 
 profile:
   align: left
@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral research fellow at the [Clinical and Translational Epidemiology Unit (CTEU)](https://www.mghcteu.org/) within Massachusetts General Hospital and Harvard Medical School and [Huttenhower lab](https://huttenhower.sph.harvard.edu/home/) at the Harvard T.H. Chan School of Public Health, where I am co-mentored by Drs. Long Nguyen, Andrew Chan, and Curtis Huttenhower. My research interests are primarily focused on investigating the gut microbial communities in relation to various gastrointestinal and hepatic conditions, with a particular emphasis on colorectal cancer and metabolic dysfunction-associated steatotic liver disease.
+I am an Assistant Professor in the [Department of Epidemiology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html) at MD Anderson Cancer Center in Houston, TX, USA.
 
-I obtained Ph.D. in Population Health Sciences, with a focus on Epidemiology, from Harvard Graduate School of Arts and Sciences and Harvard T.H. Chan School of Public Health. My doctoral thesis explored the associations between vitamin D, calcium, and early-onset colorectal neoplasia.
+My lab focuses on diet, particularly precision nutrition, and the gut microbiome, applying epidemiologic and advanced statistical approaches to improve cancer prevention and prognosis at the foremost institution for cancer care and research.
+
+Previously, I earned my Ph.D. in Population Health Sciences (Epidemiology) from the Harvard Graduate School of Arts and Sciences and the Harvard T.H. Chan School of Public Health, focusing on cancer and nutritional epidemiology. I completed my postdoctoral fellowship jointly in the [Clinical and Translational Epidemiology Unit (CTEU)](https://www.mghcteu.org/) at Massachusetts General Hospital and the [Huttenhower lab](https://huttenhower.sph.harvard.edu/home/) at the Harvard T.H. Chan School of Public Health, where I investigated the gut microbiome and leveraged multi-omic approaches in clinical research.
