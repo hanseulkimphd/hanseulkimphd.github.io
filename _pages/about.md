@@ -24,12 +24,12 @@ Previously, I earned my Ph.D. in Population Health Sciences (Epidemiology) from 
 
 <div class="social" style="margin-top: 2.5rem;">
   <p style="font-weight: 600; margin-bottom: 0.3rem;">Google Scholar for Publications:</p>
-  <div class="contact-icons" style="margin-bottom: 1.75rem;">
+  <div class="contact-icons" style="font-size: 8rem; margin-bottom: 1.75rem;">
     <a href="https://scholar.google.com/citations?user=YdqY9hoAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
   </div>
 
   <p style="font-weight: 600; margin-bottom: 0.3rem;">Social Media:</p>
-  <div class="contact-icons">
+  <div class="contact-icons" style="font-size: 8rem;">
     <a href="https://www.linkedin.com/in/hanseul-kim-epi" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
     <a href="https://twitter.com/hanseul_k" title="X"><i class="fa-brands fa-x-twitter"></i></a>
   </div>
