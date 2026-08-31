@@ -1,24 +1,25 @@
 ---
-layout: about
+layout: page
 title: PI
 permalink: /
-subtitle: Assistant Professor at The University of Texas MD Anderson Cancer Center
-
-profile:
-  align: left
-  image: hanseul.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>hkim14@mdanderson.org</p>
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the [Department of Epidemiology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html) at MD Anderson Cancer Center in Houston, TX, USA.
+<style>
+  .post-header { display: none; }
+</style>
 
-My lab focuses on diet, particularly precision nutrition, and the gut microbiome, applying epidemiologic and advanced statistical approaches to improve cancer prevention and prognosis at the foremost institution for cancer care and research.
+<div style="text-align: center; max-width: 640px; margin: 0 auto 3rem;">
+  <p style="font-size: 0.8rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--global-text-color-light); margin-bottom: 0.5rem;">Principal Investigator</p>
+  <h1 style="margin: 0 0 0.4rem; font-weight: 400;">{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}</h1>
+  <p style="margin: 0 0 0.25rem; color: var(--global-text-color-light);">Assistant Professor, The University of Texas MD Anderson Cancer Center</p>
+  <p style="margin: 0 0 1.75rem; color: var(--global-text-color-light); font-size: 0.9rem;"><a href="mailto:hkim14@mdanderson.org">hkim14@mdanderson.org</a></p>
+
+  <img src="{{ '/assets/img/hanseul.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 1.75rem;">
+
+  <p>I am an Assistant Professor in the <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html">Department of Epidemiology</a> at MD Anderson Cancer Center in Houston, TX, USA.</p>
+
+  <p>My lab focuses on diet, particularly precision nutrition, and the gut microbiome, applying epidemiologic and advanced statistical approaches to improve cancer prevention and prognosis at the foremost institution for cancer care and research.</p>
+</div>
 
 ## Education & Training
 
