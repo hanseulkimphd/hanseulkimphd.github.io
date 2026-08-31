@@ -1,7 +1,9 @@
 ---
 layout: page
 title: PI
-permalink: /
+nav: true
+nav_order: 0
+permalink: /pi/
 ---
 
 <style>
