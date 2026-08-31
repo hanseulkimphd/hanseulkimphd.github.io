@@ -105,11 +105,11 @@ permalink: /pi/
 ## Grant & Contract Support
 
 <div style="margin-bottom: 1.25rem;">
-  <p style="font-weight: 600; margin-bottom: 0.2rem;">2026&ndash;2027 &middot; Diet-microbiome integration in Mexican American Cohort</p>
+  <p style="margin-bottom: 0.2rem;">2026&ndash;2027 &middot; Diet-microbiome integration in Mexican American Cohort</p>
   <p style="margin: 0; color: var(--global-text-color-light);">Houston Nutrition and Obesity Research Center (HNORC) &middot; Role: PI</p>
 </div>
 
 <div style="margin-bottom: 1.5rem;">
-  <p style="font-weight: 600; margin-bottom: 0.2rem;">2026&ndash;2031 &middot; Multi-omic approaches to exploring the gut microbiome and metabolic dysfunction-associated steatotic liver disease (MASLD)</p>
+  <p style="margin-bottom: 0.2rem;">2026&ndash;2031 &middot; Multi-omic approaches to exploring the gut microbiome and metabolic dysfunction-associated steatotic liver disease (MASLD)</p>
   <p style="margin: 0; color: var(--global-text-color-light);">NIH/NIDDK &middot; Role: PI &middot; ID: DK14167</p>
 </div>
