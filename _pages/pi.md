@@ -68,7 +68,7 @@ permalink: /pi/
 
 <div style="display: flex; margin-bottom: 1.5rem;">
   <div style="min-width: 100px; font-weight: 600;">2021&ndash;2025</div>
-  <div>Postdoctoral Research Fellow, Microbiome and Translational Epidemiology, Massachusetts General Hospital and Harvard Medical School, Boston, MA</div>
+  <div>Postdoctoral Research Fellow, Microbiome and Translational Epidemiology, <span style="font-weight: 600;">Massachusetts General Hospital and Harvard Medical School, Boston, MA</span></div>
 </div>
 
 ## Honors & Awards
