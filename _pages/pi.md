@@ -10,14 +10,34 @@ permalink: /pi/
   .post-header { display: none; }
 </style>
 
-<div style="text-align: center; max-width: 640px; margin: 0 auto 3rem;">
+<div style="text-align: center; max-width: 640px; margin: 0 auto 2.5rem;">
   <p style="font-size: 0.8rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--global-text-color-light); margin-bottom: 0.5rem;">Principal Investigator</p>
   <h1 style="margin: 0 0 0.4rem; font-weight: 400;">{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}</h1>
-  <p style="margin: 0 0 1.75rem; color: var(--global-text-color-light);">Assistant Professor, <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html">Department of Epidemiology</a>, The University of Texas MD Anderson Cancer Center</p>
+  <p style="margin: 0; color: var(--global-text-color-light);">Assistant Professor, <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html">Department of Epidemiology</a>, The University of Texas MD Anderson Cancer Center</p>
+</div>
 
-  <img src="{{ '/assets/img/hanseul.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 15%; border-radius: 8px; margin-bottom: 0.75rem;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 2rem; max-width: 640px; margin: 0 auto 3rem;">
+  <div style="text-align: left;">
+    <img src="{{ '/assets/img/hanseul_pi.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 0.75rem; display: block;">
+    <p style="margin: 0; color: var(--global-text-color-light); font-size: 0.9rem;">hkim14@mdanderson.org</p>
+  </div>
 
-  <p style="margin: 0; color: var(--global-text-color-light); font-size: 0.9rem;">hkim14@mdanderson.org</p>
+  <div class="social" style="text-align: left;">
+    <div style="margin-bottom: 1.25rem;">
+      <p style="font-weight: 600; margin: 0 0 0.35rem;">Google Scholar for Publications:</p>
+      <div class="contact-icons" style="font-size: 2.4rem; line-height: 1;">
+        <a href="https://scholar.google.com/citations?user=YdqY9hoAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      </div>
+    </div>
+
+    <div>
+      <p style="font-weight: 600; margin: 0 0 0.35rem;">Social Media:</p>
+      <div class="contact-icons" style="font-size: 2.4rem; line-height: 1;">
+        <a href="https://www.linkedin.com/in/hanseul-kim-epi" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="https://twitter.com/hanseul_k" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Education & Training
@@ -85,21 +105,4 @@ permalink: /pi/
 <div style="margin-bottom: 1.5rem;">
   <p style="font-weight: 600; margin-bottom: 0.2rem;">2026&ndash;2031 &middot; Multi-omic approaches to exploring the gut microbiome and metabolic dysfunction-associated steatotic liver disease (MASLD)</p>
   <p style="margin: 0; color: var(--global-text-color-light);">NIH/NIDDK &middot; Role: PI &middot; ID: DK14167</p>
-</div>
-
-<div class="social" style="margin-top: 2.5rem;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 0.75rem; margin-bottom: 1rem;">
-    <span style="font-weight: 600;">Google Scholar for Publications:</span>
-    <div class="contact-icons" style="font-size: 6rem; line-height: 1;">
-      <a href="https://scholar.google.com/citations?user=YdqY9hoAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center; justify-content: center; gap: 0.75rem;">
-    <span style="font-weight: 600;">Social Media:</span>
-    <div class="contact-icons" style="font-size: 6rem; line-height: 1;">
-      <a href="https://www.linkedin.com/in/hanseul-kim-epi" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-      <a href="https://twitter.com/hanseul_k" title="X"><i class="fa-brands fa-x-twitter"></i></a>
-    </div>
-  </div>
 </div>
