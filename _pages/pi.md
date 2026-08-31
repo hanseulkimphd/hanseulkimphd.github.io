@@ -17,7 +17,7 @@ permalink: /pi/
 </div>
 
 <div style="text-align: center; max-width: 640px; margin: 0 auto 3rem;">
-  <img src="{{ '/assets/img/hanseul_pi.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px; margin: 0 auto 0.75rem;">
+  <img src="{{ '/assets/img/hanseul_pi.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; margin: 0 auto 0.75rem;">
   <p style="margin: 0; color: var(--global-text-color-light); font-size: 0.9rem;">hkim14@mdanderson.org</p>
 
   <div class="social" style="margin-top: 1.75rem;">
