@@ -22,14 +22,14 @@ permalink: /pi/
 
   <div class="social" style="margin-top: 1.75rem;">
     <div style="margin-bottom: 1.25rem;">
-      <p style="font-weight: 600; margin: 0 0 0.35rem;">Google Scholar for Publications:</p>
+      <p style="font-weight: 600; margin: 0 0 0.35rem; font-size: 0.85rem;">Google Scholar for Publications:</p>
       <div class="contact-icons" style="font-size: 2.4rem; line-height: 1;">
         <a href="https://scholar.google.com/citations?user=YdqY9hoAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
       </div>
     </div>
 
     <div>
-      <p style="font-weight: 600; margin: 0 0 0.35rem;">Social Media:</p>
+      <p style="font-weight: 600; margin: 0 0 0.35rem; font-size: 0.85rem;">Social Media:</p>
       <div class="contact-icons" style="font-size: 2.4rem; line-height: 1;">
         <a href="https://www.linkedin.com/in/hanseul-kim-epi" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
         <a href="https://twitter.com/hanseul_k" title="X"><i class="fa-brands fa-x-twitter"></i></a>
