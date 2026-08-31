@@ -21,7 +21,7 @@ permalink: /
     <span style="color: var(--global-text-color); font-weight: 700;">Di</span>et and
     <span style="color: var(--global-text-color); font-weight: 700;">M</span>icrobiome
     <span style="color: var(--global-text-color); font-weight: 700;">E</span>pidemiology Lab
-    (<span style="color: var(--global-text-color); font-weight: 700;">DiME</span>)!
+    (<span style="color: var(--global-text-color); font-weight: 700;">The DiME Lab</span>)!
   </h1>
 
   <p style="margin: 1.5rem 0 0; color: var(--global-text-color-light);">DiME lab focuses on diet, particularly precision nutrition, and the gut microbiome, applying epidemiologic and advanced statistical approaches to improve cancer prevention and prognosis at the foremost institution for cancer care and research.</p>

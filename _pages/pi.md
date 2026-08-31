@@ -13,7 +13,7 @@ permalink: /pi/
 <div style="text-align: center; max-width: 640px; margin: 0 auto 2.5rem;">
   <p style="font-size: 0.8rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--global-text-color-light); margin-bottom: 0.5rem;">Principal Investigator</p>
   <h1 style="margin: 0 0 0.4rem; font-weight: 400;">{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}</h1>
-  <p style="margin: 0; color: var(--global-text-color-light);">Assistant Professor, <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html">Department of Epidemiology</a>, The University of Texas MD Anderson Cancer Center</p>
+  <p style="margin: 0; color: var(--global-text-color-light);">Assistant Professor, <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html">Department of Epidemiology</a><br>The University of Texas MD Anderson Cancer Center</p>
 </div>
 
 <div style="text-align: center; max-width: 640px; margin: 0 auto 3rem;">
