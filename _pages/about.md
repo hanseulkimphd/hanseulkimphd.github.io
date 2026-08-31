@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: PI
 permalink: /
 subtitle: Assistant Professor at The University of Texas MD Anderson Cancer Center
 
@@ -20,7 +20,72 @@ I am an Assistant Professor in the [Department of Epidemiology](https://www.mdan
 
 My lab focuses on diet, particularly precision nutrition, and the gut microbiome, applying epidemiologic and advanced statistical approaches to improve cancer prevention and prognosis at the foremost institution for cancer care and research.
 
-Previously, I earned my Ph.D. in Population Health Sciences (Epidemiology) from the Harvard Graduate School of Arts and Sciences and the Harvard T.H. Chan School of Public Health, focusing on cancer and nutritional epidemiology. I completed my postdoctoral fellowship jointly in the [Clinical and Translational Epidemiology Unit (CTEU)](https://www.mghcteu.org/) at Massachusetts General Hospital and the [Huttenhower lab](https://huttenhower.sph.harvard.edu/home/) at the Harvard T.H. Chan School of Public Health, where I investigated the gut microbiome and leveraged multi-omic approaches in clinical research.
+## Education & Training
+
+**Degree-Granting Education**
+
+<div style="display: flex; margin-bottom: 0.5rem;">
+  <div style="min-width: 70px; font-weight: 600;">2022</div>
+  <div>Harvard T. H. Chan School of Public Health, Boston, MA, US &mdash; Epidemiology, Doctor of Philosophy in Population Health Sciences</div>
+</div>
+<div style="display: flex; margin-bottom: 0.5rem;">
+  <div style="min-width: 70px; font-weight: 600;">2017</div>
+  <div>Harvard T. H. Chan School of Public Health, Boston, MA, US &mdash; Biostatistics, Master of Science</div>
+</div>
+<div style="display: flex; margin-bottom: 1.25rem;">
+  <div style="min-width: 70px; font-weight: 600;">2014</div>
+  <div>Rice University, Houston, TX, US &mdash; Statistics and Psychology, Bachelor of Arts</div>
+</div>
+
+**Postgraduate Training**
+
+<div style="display: flex; margin-bottom: 1.5rem;">
+  <div style="min-width: 100px; font-weight: 600;">2021&ndash;2025</div>
+  <div>Postdoctoral Research Fellow, Microbiome and Translational Epidemiology, Massachusetts General Hospital and Harvard Medical School, Boston, MA</div>
+</div>
+
+## Honors & Awards
+
+<div style="display: flex; margin-bottom: 0.5rem;">
+  <div style="min-width: 100px; font-weight: 600;">2024&ndash;2025</div>
+  <div>NIH National Research Service Award T32 CA 009001 Postdoctoral Researcher</div>
+</div>
+<div style="display: flex; margin-bottom: 0.5rem;">
+  <div style="min-width: 100px; font-weight: 600;">2024</div>
+  <div>Fellow Abstract Award, American Gastroenterological Association</div>
+</div>
+<div style="display: flex; margin-bottom: 0.5rem;">
+  <div style="min-width: 100px; font-weight: 600;">2023</div>
+  <div>Program in Quantitative Genomics Postdoc Travel Award, Harvard T.H. Chan</div>
+</div>
+<div style="display: flex; margin-bottom: 0.5rem;">
+  <div style="min-width: 100px; font-weight: 600;">2015&ndash;2016</div>
+  <div>Harvard Chan Central Grant, Harvard T.H. Chan</div>
+</div>
+<div style="display: flex; margin-bottom: 0.5rem;">
+  <div style="min-width: 100px; font-weight: 600;">2014</div>
+  <div>Magna Cum Laude, Rice University</div>
+</div>
+<div style="display: flex; margin-bottom: 0.5rem;">
+  <div style="min-width: 100px; font-weight: 600;">2013&ndash;2014</div>
+  <div>Louis J. Walsh Scholarship in Engineering, Rice University</div>
+</div>
+<div style="display: flex; margin-bottom: 1.5rem;">
+  <div style="min-width: 100px; font-weight: 600;">2011&ndash;2014</div>
+  <div>President's Honor Roll, Rice University</div>
+</div>
+
+## Grant & Contract Support
+
+<div style="margin-bottom: 1.25rem;">
+  <p style="font-weight: 600; margin-bottom: 0.2rem;">2026&ndash;2027 &middot; Diet-microbiome integration in Mexican American Cohort</p>
+  <p style="margin: 0; color: var(--global-text-color-light);">Houston Nutrition and Obesity Research Center (HNORC) &middot; Role: PI</p>
+</div>
+
+<div style="margin-bottom: 1.5rem;">
+  <p style="font-weight: 600; margin-bottom: 0.2rem;">2026&ndash;2031 &middot; Multi-omic approaches to exploring the gut microbiome and metabolic dysfunction-associated steatotic liver disease (MASLD)</p>
+  <p style="margin: 0; color: var(--global-text-color-light);">NIH/NIDDK &middot; Role: PI &middot; ID: DK14167</p>
+</div>
 
 <div class="social" style="margin-top: 2.5rem;">
   <div style="display: flex; align-items: center; justify-content: center; gap: 0.75rem; margin-bottom: 1rem;">
