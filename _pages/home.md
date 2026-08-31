@@ -10,11 +10,7 @@ permalink: /
 
 <div style="text-align: center; max-width: 640px; margin: 3rem auto 0;">
 
-  <svg viewBox="0 0 160 160" width="160" height="160" style="display: block; margin: 0 auto 1.75rem;">
-    <circle cx="80" cy="80" r="70" fill="none" stroke="var(--global-text-color-light)" stroke-width="2" stroke-dasharray="4 5" opacity="0.55"/>
-    <text x="80" y="76" text-anchor="middle" font-size="13" letter-spacing="2" fill="var(--global-text-color-light)">LOGO</text>
-    <text x="80" y="94" text-anchor="middle" font-size="10" letter-spacing="1" fill="var(--global-text-color-light)" opacity="0.85">coming soon</text>
-  </svg>
+  <img src="{{ '/assets/img/dime-logo-full.svg' | relative_url }}" alt="DiME Lab logo" style="width: 100%; max-width: 460px; height: auto; display: block; margin: 0 auto 1.75rem;">
 
   <h1 style="margin: 0; font-weight: 400; font-size: 2.3rem; line-height: 1.3; color: var(--global-text-color);">
     Welcome to the
