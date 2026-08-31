@@ -44,15 +44,24 @@ permalink: /pi/
 
 <div style="display: flex; margin-bottom: 0.5rem;">
   <div style="min-width: 70px; font-weight: 600;">2022</div>
-  <div>Harvard T. H. Chan School of Public Health, Boston, MA, US &mdash; Epidemiology, Doctor of Philosophy in Population Health Sciences</div>
+  <div>
+    <div style="font-weight: 600;">Harvard T. H. Chan School of Public Health, Boston, MA, US</div>
+    <div>Epidemiology, Doctor of Philosophy in Population Health Sciences</div>
+  </div>
 </div>
 <div style="display: flex; margin-bottom: 0.5rem;">
   <div style="min-width: 70px; font-weight: 600;">2017</div>
-  <div>Harvard T. H. Chan School of Public Health, Boston, MA, US &mdash; Biostatistics, Master of Science</div>
+  <div>
+    <div style="font-weight: 600;">Harvard T. H. Chan School of Public Health, Boston, MA, US</div>
+    <div>Biostatistics, Master of Science</div>
+  </div>
 </div>
 <div style="display: flex; margin-bottom: 1.25rem;">
   <div style="min-width: 70px; font-weight: 600;">2014</div>
-  <div>Rice University, Houston, TX, US &mdash; Statistics and Psychology, Bachelor of Arts</div>
+  <div>
+    <div style="font-weight: 600;">Rice University, Houston, TX, US</div>
+    <div>Statistics and Psychology, Bachelor of Arts</div>
+  </div>
 </div>
 
 **Postgraduate Training**
