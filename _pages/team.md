@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-We are currently recruiting talented and motivated researchers to join my lab as a postdoctoral fellow or graduate student.
+We are currently recruiting talented and motivated researchers to join our lab as a postdoctoral fellow or graduate student.
 
 ## Current Members
 
