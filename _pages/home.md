@@ -18,10 +18,10 @@ permalink: /
 
   <h1 style="margin: 0; font-weight: 400; font-size: 2.3rem; line-height: 1.3;">
     Welcome to the
-    <span style="color: var(--global-theme-color); font-weight: 600;">Di</span>et and
-    <span style="color: var(--global-theme-color); font-weight: 600;">M</span>icrobiome
-    <span style="color: var(--global-theme-color); font-weight: 600;">E</span>pidemiology Lab
-    (<span style="color: var(--global-theme-color); font-weight: 600;">DiME</span>)!
+    <span style="color: var(--global-text-color-light); font-weight: 600;">Di</span>et and
+    <span style="color: var(--global-text-color-light); font-weight: 600;">M</span>icrobiome
+    <span style="color: var(--global-text-color-light); font-weight: 600;">E</span>pidemiology Lab
+    (<span style="color: var(--global-text-color-light); font-weight: 600;">DiME</span>)!
   </h1>
 
   <p style="margin: 1.5rem 0 0; color: var(--global-text-color-light);">DiME lab focuses on diet, particularly precision nutrition, and the gut microbiome, applying epidemiologic and advanced statistical approaches to improve cancer prevention and prognosis at the foremost institution for cancer care and research.</p>
