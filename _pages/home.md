@@ -24,4 +24,6 @@ permalink: /
     (<span style="color: var(--global-theme-color); font-weight: 600;">DiME</span>)!
   </h1>
 
+  <p style="margin: 1.5rem 0 0; color: var(--global-text-color-light);">DiME lab focuses on diet, particularly precision nutrition, and the gut microbiome, applying epidemiologic and advanced statistical approaches to improve cancer prevention and prognosis at the foremost institution for cancer care and research.</p>
+
 </div>

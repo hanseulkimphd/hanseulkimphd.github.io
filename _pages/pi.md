@@ -13,14 +13,11 @@ permalink: /pi/
 <div style="text-align: center; max-width: 640px; margin: 0 auto 3rem;">
   <p style="font-size: 0.8rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--global-text-color-light); margin-bottom: 0.5rem;">Principal Investigator</p>
   <h1 style="margin: 0 0 0.4rem; font-weight: 400;">{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}</h1>
-  <p style="margin: 0 0 0.25rem; color: var(--global-text-color-light);">Assistant Professor, The University of Texas MD Anderson Cancer Center</p>
-  <p style="margin: 0 0 1.75rem; color: var(--global-text-color-light); font-size: 0.9rem;"><a href="mailto:hkim14@mdanderson.org">hkim14@mdanderson.org</a></p>
+  <p style="margin: 0 0 1.75rem; color: var(--global-text-color-light);">Assistant Professor, <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html">Department of Epidemiology</a>, The University of Texas MD Anderson Cancer Center</p>
 
-  <img src="{{ '/assets/img/hanseul.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 1.75rem;">
+  <img src="{{ '/assets/img/hanseul.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 15%; border-radius: 8px; margin-bottom: 0.75rem;">
 
-  <p>I am an Assistant Professor in the <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html">Department of Epidemiology</a> at MD Anderson Cancer Center in Houston, TX, USA.</p>
-
-  <p>My lab focuses on diet, particularly precision nutrition, and the gut microbiome, applying epidemiologic and advanced statistical approaches to improve cancer prevention and prognosis at the foremost institution for cancer care and research.</p>
+  <p style="margin: 0; color: var(--global-text-color-light); font-size: 0.9rem;">hkim14@mdanderson.org</p>
 </div>
 
 ## Education & Training
