@@ -16,13 +16,11 @@ permalink: /pi/
   <p style="margin: 0; color: var(--global-text-color-light);">Assistant Professor, <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/epidemiology.html">Department of Epidemiology</a>, The University of Texas MD Anderson Cancer Center</p>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 2rem; max-width: 640px; margin: 0 auto 3rem;">
-  <div style="text-align: left;">
-    <img src="{{ '/assets/img/hanseul_pi.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 0.75rem; display: block;">
-    <p style="margin: 0; color: var(--global-text-color-light); font-size: 0.9rem;">hkim14@mdanderson.org</p>
-  </div>
+<div style="text-align: center; max-width: 640px; margin: 0 auto 3rem;">
+  <img src="{{ '/assets/img/hanseul_pi.jpg' | relative_url }}" alt="Hanseul Kim" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px; margin: 0 auto 0.75rem;">
+  <p style="margin: 0; color: var(--global-text-color-light); font-size: 0.9rem;">hkim14@mdanderson.org</p>
 
-  <div class="social" style="text-align: left;">
+  <div class="social" style="margin-top: 1.75rem;">
     <div style="margin-bottom: 1.25rem;">
       <p style="font-weight: 600; margin: 0 0 0.35rem;">Google Scholar for Publications:</p>
       <div class="contact-icons" style="font-size: 2.4rem; line-height: 1;">
