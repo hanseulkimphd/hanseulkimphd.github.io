@@ -102,7 +102,7 @@ permalink: /pi/
   <div>President's Honor Roll, Rice University</div>
 </div>
 
-## Grant & Contract Support
+<h2 style="margin-top: 0;">Grant & Contract Support</h2>
 
 <div style="margin-bottom: 1.25rem;">
   <p style="margin-bottom: 0.2rem;"><span style="font-weight: 600;">2026&ndash;2027</span> &middot; Diet-microbiome integration in Mexican American Cohort</p>
