@@ -2,7 +2,6 @@
 layout: page
 title: Home
 permalink: /
-default_theme: dark
 ---
 
 <style>

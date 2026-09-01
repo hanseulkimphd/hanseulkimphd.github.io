@@ -208,14 +208,6 @@ let determineThemeSetting = () => {
 let determineComputedTheme = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
-    // If the user hasn't made an explicit light/dark choice, let the current
-    // page opt into its own default (e.g. Home defaults to dark) instead of
-    // falling back to the OS preference.
-    let pageDefault = document.documentElement.getAttribute("data-default-theme");
-    if (pageDefault == "dark" || pageDefault == "light") {
-      return pageDefault;
-    }
-
     const userPref = window.matchMedia;
     if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
       return "dark";

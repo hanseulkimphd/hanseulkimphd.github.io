@@ -4,7 +4,6 @@ title: PI
 nav: true
 nav_order: 0
 permalink: /pi/
-default_theme: light
 ---
 
 <style>
