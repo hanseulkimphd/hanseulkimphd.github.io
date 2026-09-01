@@ -8,7 +8,7 @@ nav_order: 1
 
 We are currently recruiting talented and motivated researchers to join our lab as a postdoctoral fellow or graduate student.
 
-## Current Members
+<h2 style="font-weight: 700;">Current Members</h2>
 
 ### Postdoctoral Fellow
 
@@ -20,6 +20,6 @@ We are currently recruiting talented and motivated researchers to join our lab a
   </div>
 </div>
 
-## Alumni
+<h2 style="font-weight: 700;">Alumni</h2>
 
 <p>April Tran, MPH</p>
