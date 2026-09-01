@@ -111,5 +111,5 @@ permalink: /pi/
 
 <div style="margin-bottom: 1.5rem;">
   <p style="margin-bottom: 0.2rem;"><span style="font-weight: 600;">2026&ndash;2031</span> &middot; Multi-omic approaches to exploring the gut microbiome and metabolic dysfunction-associated steatotic liver disease (MASLD)</p>
-  <p style="margin: 0; color: var(--global-text-color-light);">NIH/NIDDK &middot; Role: PI &middot; ID: DK14167</p>
+  <p style="margin: 0; color: var(--global-text-color-light);">NIH/NIDDK K01 &middot; Role: PI</p>
 </div>
